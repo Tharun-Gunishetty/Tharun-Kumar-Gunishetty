@@ -1,5 +1,3 @@
-# 👋 Hi, I'm Tharun Kumar Gunishetty
-
 🎯 **Industrial Engineer | Data-Driven Supply Chain Analyst | Power BI Enthusiast**
 
 📍 Currently in the U.S. | Open to full-time opportunities in Supply Chain Analytics, Operations, or Data Analysis
