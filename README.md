@@ -41,4 +41,16 @@ Supply Chain Optimization, Process Improvement, Forecasting, Cost Estimation, KP
 
 ## 📚 Projects
 
-- **930 Bar Carrier** – Cost analysis & inventory forecasting for zero-defect production
+- **930 Bar Carrier** – Cost analysis & inventory forecasting for zero-defect production  
+- **Standalone Dispenser** – Achieved **15% cost reduction** via procurement optimization  
+- **C200 Compressor** – Reduced lead time by **20%** through supplier analysis  
+- **P200 Purification** – Enhanced product reliability and reduced lead time by **40%**
+
+---
+
+## 📫 Let's Connect!
+
+- [📧 Email](mailto:tharunkumargunishetty@gmail.com)
+- [🔗 LinkedIn](https://www.linkedin.com/in/gunishetty-tharun-kumar-93135012b)
+
+
